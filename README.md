@@ -8,6 +8,8 @@ Hey! I am Julian Netzer 👋
 
 ## About my daily adventures
 
+- TODO
+
 ## So what's next?
 - 🔜 In the near future, I plan to...
   - launch my app to build an app - [kula.app](https://kula.app)
