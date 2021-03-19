@@ -1,16 +1,15 @@
-### Hi there 👋
+# Current projects
 
-<!--
-**copieman/copieman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Founding kula.app
+- CEO @techprimate techprimate.com 
 
-Here are some ideas to get you started:
+# What I do best
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working with technology in school and at work, as well as in private, tought me a lot of handy skills. I see myself very well talented and experienced in
+
+- UI/UX Design, especially for Mobile Apps
+- Concepting Mobile Software for Outsourcing
+- High Grade Editing of Digital Film and Online Videos
+- 3D-CAD Design of mechanical appliances and normed 2D drawings
+- IT Consulting for implementing Mobile Technology in Companies
+
