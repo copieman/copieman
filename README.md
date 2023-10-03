@@ -2,13 +2,9 @@ Hey! I am Julian Netzer 👋
 
 ## Me as a person
 
-- 🚀 Founder of [@techprimate](https://github.com/techprimate)
+- 🚀 Founder of [@kula](https://github.com/kula_app) [@techprimate](https://github.com/techprimate)
 - 💻 Inventor, UX/UI Designer & App Creator, of [many apps](https://techprimate.com/apps)
 - 📚 Student in Extended Studies on Innovation at **University of Technology Vienna (TU Wien)**
-
-## About my daily adventures
-
-- TODO
 
 ## So what's next?
 - 🔜 In the near future, I plan to...
@@ -18,7 +14,6 @@ Hey! I am Julian Netzer 👋
   - to have the means to invest in ideas of others.
 
 ## Where you can find me:
-
 
 <p align="center">
   <a href="https://twitter.com/copieman">
